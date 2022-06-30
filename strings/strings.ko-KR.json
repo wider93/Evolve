@@ -6458,7 +6458,7 @@
   "wiki_trait_effect_scales": "공격 후 승리로 인한 군사 사망 수가 %0명 감소하고, 공격 후 패배로 인한 군사 사망 수가 %1명 감소하며. 지옥순찰자의 아머가 %2 증가합니다.",
   "wiki_trait_effect_hollow_bones": "건물 자원 비용이 %0% 감소합니다.",
   "wiki_trait_effect_rigid": "자원 제작 생산량이 %0% 감소합니다.",
-  "wiki_trait_effect_high_pop": "인구가 %0배 더 많지만, 한 시민의 능률이 %1% 감소합니다. 인구 증가속도는 %2배 더 빠릅니다.",
+  "wiki_trait_effect_high_pop": "인구가 %0배 더 많지만, 한 시민의 능률이 %1%로 감소합니다. 인구 증가속도는 %2배 더 빠릅니다.",
   "wiki_trait_effect_high_pop_ex1": "높은 인구 특성은 모방할 수 없습니다.",
   "wiki_trait_effect_fast_growth": "인구 증가 속도가 더 빨라집니다.",
   "wiki_trait_effect_high_metabolism": "식량 소비량이 %0% 증가합니다.",
